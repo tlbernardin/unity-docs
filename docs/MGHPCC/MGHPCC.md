@@ -10,3 +10,5 @@ Slurm offers the same basic functionalities as LSF: you can use it to submit job
 The LSF commands that you use today to submit and monitor jobs — ``` bsub, bjobs ``` — and their various options will need to be replaced with their Slurm equivalent, which can be found [here](https://scicomp.ethz.ch/wiki/LSF_to_Slurm_quick_reference).
 
 A full list of Slurm commands and their equivalents can be found [here](https://slurm.schedmd.com/rosetta.pdf).
+
+test
